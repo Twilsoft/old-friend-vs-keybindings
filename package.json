@@ -1,8 +1,8 @@
 {
     "name": "old-friend-vs-keybindings",
-    "displayName": "An old friend, Visual Keymap",
+    "displayName": "An old friend, Visual Studio Keymap",
     "description": "Popular Visual Studio keybindings for VS Code.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "twilsoft",
     "engines": {
         "vscode": "^1.22.0"
