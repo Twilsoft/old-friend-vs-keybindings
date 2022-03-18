@@ -1,9 +1,9 @@
 {
-    "name": "vs-keybindings",
-    "displayName": "Visual Studio Keymap",
+    "name": "old-friend-vs-keybindings",
+    "displayName": "An old friend, Visual Keymap",
     "description": "Popular Visual Studio keybindings for VS Code.",
-    "version": "0.2.1",
-    "publisher": "ms-vscode",
+    "version": "0.0.1",
+    "publisher": "twilsoft",
     "engines": {
         "vscode": "^1.22.0"
     },
@@ -15,10 +15,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/Microsoft/vscode-vs-keybindings.git"
+        "url": "https://github.com/Twilsoft/old-friend-vs-keybindings.git"
     },
     "bugs": {
-        "url": "https://github.com/Microsoft/vscode-vs-keybindings/issues"
+        "url": "https://github.com/Twilsoft/old-friend-vs-keybindings/issues"
     },
     "icon": "visualstudio-keyboard.png",
     "contributes": {
